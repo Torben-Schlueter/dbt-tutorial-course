@@ -1,6 +1,0 @@
-{
-    "python.pythonPath": "venv/scripts/python",
-    "terminal.integrated.env.windows": {
-        "BIGQUERY_PROJECT": "lv-torben-bigquery-intro"
-    }
-}
